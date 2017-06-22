@@ -208,6 +208,7 @@
   </profiles>
 
   <modules>
+    <module>image</module>
     <module>library</module>
     <module>contrib</module>
     <module>kafka</module>
